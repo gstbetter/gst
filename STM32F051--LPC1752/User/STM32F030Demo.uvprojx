@@ -428,16 +428,6 @@
               <FilePath>.\system_stm32f0xx.c</FilePath>
             </File>
             <File>
-              <FileName>exti.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\exti.c</FilePath>
-            </File>
-            <File>
-              <FileName>exti.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\exti.h</FilePath>
-            </File>
-            <File>
               <FileName>stm32f0xx_misc.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\STM32F03x_FWLib\src\stm32f0xx_misc.c</FilePath>
